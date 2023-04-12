@@ -4,8 +4,8 @@
     margin: 0 ;
     padding: 0 ;
     box-sizing: border-box;
-    font-family: 'Anuphan', sans-serif;
-    /* font-family: 'Mali', cursive; */
+    /* font-family: 'Anuphan', sans-serif; */
+    font-family: 'Mali', cursive;
 }
 .fullscreen {
     min-height: 100vh ;
