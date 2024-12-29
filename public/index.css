@@ -1,35 +1,10 @@
-@import url("https://fonts.googleapis.com/css2?family=Bai+Jamjuree:ital,wght@0,200;0,300;0,400;0,500;0,600;0,700;1,200;1,300;1,400;1,500;1,600;1,700&display=swap");
+@import url('https://fonts.googleapis.com/css2?family=Bai+Jamjuree:ital,wght@0,200;0,300;0,400;0,500;0,600;0,700;1,200;1,300;1,400;1,500;1,600;1,700&display=swap');
+/* @import url('https://cdn-uicons.flaticon.com/uicons-regular-rounded/css/uicons-regular-rounded.css'); */
 
 * {
   margin: 0;
   padding: 0;
   box-sizing: border-box;
   /* font-family: 'Anuphan', sans-serif; */
-  font-family: "Bai Jamjuree", cursive;
-}
-
-.bg {
-  background-color: #666666;
-  background-image: url("https://media.discordapp.net/attachments/1305813150603546644/1306807504700838012/NM7KX6R.png?ex=673802d4&is=6736b154&hm=20e7959a39c1a51d7521f244a9922af95397120718f8b5c62abc4a3d6aac39ff&=&format=webp&quality=lossless&width=525&height=350");
-  background-position: center;
-  background-size: cover;
-  background-repeat: no-repeat;
-}
-
-.fullscreen {
-  min-height: 100vh;
-}
-
-.ing-p {
-  min-width: 120px;
-}
-
-.box-content {
-  height: 50vh;
-  margin-top: 5rem;
-  margin-bottom: 5rem;
-}
-
-a {
-  color: #52466a;
+  font-family: 'Bai Jamjuree', cursive;
 }
